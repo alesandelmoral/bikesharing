@@ -21,7 +21,7 @@ This graphing of number of trips by duration show that the vast majority of trip
 
 This breakdown of number of rides by duration, separated by gender, makes it even more apparent how many more rides are taken by male-identifying customers.
 
-![Checkout_Times_by_Gender]](https://github.com/alesandelmoral/bikesharing/blob/main/Images/Checkout_Times_by_Gender.PNG)
+![Checkout_Times_by_Gender](https://github.com/alesandelmoral/bikesharing/blob/main/Images/Checkout_Times_by_Gender.PNG)
 
 A heatmap also helps show weekly usage patterns. Once again we can see the heavy bike usage during weekday commute times, and weekend usage is spread throughout the middle of the day. An interesting anomaly is the relatively low bike usage during Wednesday's end-of-day commute. It could be useful to explore reasons for this (system outage, Wednesday holidays in August, something less obvious?), but it could just be an arbitrary anomaly. Also, we can still see that low-usage time in the early morning hours, every day of the week.
 
@@ -35,13 +35,15 @@ The last heatmap reinforces how much of the userbase is dominated by male-identi
 
 The first discoveries that we made at the begining of the module are the following:
 
-![Use_Trips_Gender_by_Weekday]()
+![Top Standard](https://github.com/alesandelmoral/bikesharing/blob/main/Images/Top_Starting_Location.PNG)
+
+![Top Ending](https://github.com/alesandelmoral/bikesharing/blob/main/Images/Top_Ending_Location.PNG)
 
 
-![Use_Trips_Gender_by_Weekday]()
+![Gender_Breakdown](https://github.com/alesandelmoral/bikesharing/blob/main/Images/Gender_Breakdown.PNG)
 
 
-![Use_Trips_Gender_by_Weekday]()
+
 
 
 
